@@ -1,14 +1,12 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Nawres Gammoudi]! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create, learn, and share knowledge with the community.
+Welcome to my GitHub profile! I'm a passionate master's student who loves to create, learn, and share knowledge with the community.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies/Languages You're Learning]**
+- 🔭 I’m currently studying **[AI & IoT]**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email/LinkedIn]**
+- 📫 How to reach me: **[nawres.gammoudi@ensi-uma.tn/[lLinkedIn](https://tn.linkedin.com/in/nawres-gammoudi-52485233b)]**
 - ⚡ Fun fact: **[Interesting Fact About You]**
 
 ## 🛠️ Technologies & Tools
