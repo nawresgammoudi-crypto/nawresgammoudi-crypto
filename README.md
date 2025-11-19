@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate master's student who loves to cre
 
 ## 🚀 About Me
 
-- 🔭 I’m currently studying **[AI & IoT]**
+- 🔭 I’m currently studying **AI & IoT**
 - 👯 I’m looking to collaborate on **open source projects**
-- 📫 How to reach me: **[Email](nawres.gammoudi@ensi-uma.tn)/[LinkedIn](https://tn.linkedin.com/in/nawres-gammoudi-52485233b)]**
-- ⚡ Fun fact: **[I RUN A LOT]**
+- 📫 How to reach me: **[Email](nawres.gammoudi@ensi-uma.tn)/[LinkedIn](https://tn.linkedin.com/in/nawres-gammoudi-52485233b)**
+- ⚡ Fun fact: **I RUN A LOT**
 
 ## 🛠️ Technologies & Tools
 
@@ -57,6 +57,6 @@ Welcome to my GitHub profile! I'm a passionate master's student who loves to cre
 
 ---
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [YourUsername](https://github.com/nawresgammoudi-crypto)
 
 ---
