@@ -1,4 +1,4 @@
-# Hi there, I'm [Nawres Gammoudi]! 👋
+# Hi there, I'm Nawres Gammoudi! 👋
 
 Welcome to my GitHub profile! I'm a passionate master's student who loves to create, learn, and share knowledge with the community.
 
