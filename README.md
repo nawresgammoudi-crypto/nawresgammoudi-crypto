@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate master's student who loves to cre
 
 - 🔭 I’m currently studying **[AI & IoT]**
 - 👯 I’m looking to collaborate on **open source projects**
-- 📫 How to reach me: **[nawres.gammoudi@ensi-uma.tn/[lLinkedIn](https://tn.linkedin.com/in/nawres-gammoudi-52485233b)]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 📫 How to reach me: **[Email](nawres.gammoudi@ensi-uma.tn)/[LinkedIn](https://tn.linkedin.com/in/nawres-gammoudi-52485233b)]**
+- ⚡ Fun fact: **[I RUN A LOT]**
 
 ## 🛠️ Technologies & Tools
 
@@ -51,17 +51,9 @@ Welcome to my GitHub profile! I'm a passionate master's student who loves to cre
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://tn.linkedin.com/in/nawres-gammoudi-52485233b))
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [My Latest Project](https://yourblog.com/latest-project)
-- [Learning New Technologies](https://yourblog.com/learning-tech)
-- [Open Source Contribution Experience](https://yourblog.com/opensource)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
