@@ -57,6 +57,6 @@ Welcome to my GitHub profile! I'm a passionate master's student who loves to cre
 
 ---
 
-⭐️ From [YourUsername](https://github.com/nawresgammoudi-crypto)
+⭐️ From [nawnaww](https://github.com/nawresgammoudi-crypto)
 
 ---
