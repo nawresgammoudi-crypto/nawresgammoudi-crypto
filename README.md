@@ -1,5 +1,8 @@
 # Hi there, I'm Nawres Gammoudi! 👋
+<div align="center">
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
+</div>
 Welcome to my GitHub profile! I'm a passionate master's student who loves to create, learn, and share knowledge with the community.
 
 ## 🚀 About Me
